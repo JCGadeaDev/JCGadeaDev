@@ -1,4 +1,4 @@
-#👋 Hello! Welcome to my GitHub profile! I'm **JCGadeaDev** 
+# 👋Hello! Welcome to my GitHub profile! I'm **JCGadeaDev**💻
 
 <!--
 **JCGadeaDev/JCGadeaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
