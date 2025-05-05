@@ -1,5 +1,8 @@
 # 👋Hello! Welcome to my GitHub profile! I'm **JCGadeaDev**💻
 
+![Mi banner](./banner.png)
+
+
 <!--
 **JCGadeaDev/JCGadeaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
