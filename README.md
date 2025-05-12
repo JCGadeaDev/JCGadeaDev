@@ -1,4 +1,4 @@
-# 👋Hello! Welcome to my GitHub profile! I'm **JCGadeaDev**💻
+# 👋Hello! Welcome to my GitHub profile! I'm **Juan Carlos Gadea**💻
 
 ![Mi banner](./banner.png)
 
