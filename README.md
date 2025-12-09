@@ -1,8 +1,6 @@
 # 👋Hello! Welcome to my GitHub profile! I'm **Juan Carlos Gadea**💻
 
-<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/36234875-3e79-4614-ae94-824d4b0de5c6" />
-
-
+<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/411d81b0-fc36-4a0e-814c-5f5aacdab14f" />
 
 
 <!--
