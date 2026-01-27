@@ -1,7 +1,6 @@
 # 👋Hello! Welcome to my GitHub profile! I'm **Juan Carlos Gadea**💻
 
-<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/411d81b0-fc36-4a0e-814c-5f5aacdab14f" />
-
+<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/6658b2af-99e2-4f75-a0d7-ad063f4f29d3" />
 
 <!--
 **JCGadeaDev/JCGadeaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
