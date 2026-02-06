@@ -13,7 +13,7 @@ Systems Engineer with +5 years of experience building mission-critical applicati
 * 🏗️ **Architecture:** Specialist in **Azure/Cloud migrations** and hybrid ecosystem design.
 * 📊 **Data Intelligence:** Transforming complex data into business value using **Python (Pandas/Statsmodels)** and **Power BI**.
 * ⚡ **Lead Experience:** Managing Agile teams (Scrum/Kanban) and technical product roadmaps.
-* * 📈 **Growth & SEO:** Implementing **Technical SEO** and performance optimization to drive organic traffic and platform visibility.
+* 📈 **Growth & SEO:** Implementing **Technical SEO** and performance optimization to drive organic traffic and platform visibility.
 
 ---
 
