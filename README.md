@@ -40,14 +40,6 @@ Systems Engineer with +5 years of experience building mission-critical applicati
 
 ---
 
-### 📊 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JCGadeaDev&show_icons=true&theme=tokyonight&count_private=true" alt="JCGadeaDev Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGadeaDev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 * 💼 **Portfolio:** [portafolio-jc-gadea-vercel.app](https://portafolio-jc-gadea-vercel.app)
 * 👔 **LinkedIn:** [linkedin.com/in/jcgadeadev](https://linkedin.com/in/jcgadeadev)
