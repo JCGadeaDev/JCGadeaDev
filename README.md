@@ -30,7 +30,7 @@ Systems Engineer with +5 years of experience building mission-critical applicati
 
 ---
 
-### 🌟 Featured Project: MiBoletoni (SaaS)
+### 🌟 Featured Project: MiBoletoni (PaaS)
 *A high-concurrency digital ticketing and access control platform.*
 * **Architecture:** Built on a PaaS ecosystem for global scalability.
 * **Data Layer:** Integrated financial dashboards for real-time sales analytics.
