@@ -41,7 +41,7 @@ Systems Engineer with +5 years of experience building mission-critical applicati
 ---
 
 ### 📫 Connect with me
-* 💼 **Portfolio:** [portafolio-jc-gadea-vercel.app](https://portafolio-jc-gadea-vercel.app)
+* 💼 **Portfolio:** [portafolio-jc-gadea-vercel.app](https://portafolio-jc-gadea.vercel.app/)
 * 👔 **LinkedIn:** [linkedin.com/in/jcgadeadev](https://linkedin.com/in/jcgadeadev)
 * ✉️ **Email:** [jcgambeta89@gmail.com](mailto:jcgambeta89@gmail.com)
 
