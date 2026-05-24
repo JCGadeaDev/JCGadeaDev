@@ -1,8 +1,9 @@
 # 👋 Hello! I'm Juan Carlos Gadea 💻
 
-<img width="100%" alt="linkedin_banner" src="https://github.com/user-attachments/assets/900fc10b-20f2-49e7-b0cf-cbecf746e1df" />
+<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/76d76a13-6074-4d23-880b-64f1df52e40c" />
 
-### **Technical Lead & Solutions Architect | Full Stack Engineer | PaaS Specialist | Data Analytics & SEO Specialist**
+
+### **Technical Lead | Solutions Architect | Full Stack Developer, Data Analytics & Cloud Engineer**
 
 Systems Engineer with +5 years of experience building mission-critical applications. My focus is on creating scalable digital products using **PaaS-driven architectures** and modern tech stacks. Currently based in **Rome, Italy 🇮🇹**.
 
