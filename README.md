@@ -4,7 +4,7 @@
 
 
 
-### **Technical Lead | Solutions Architect | Full Stack Developer, Data Analytics & Cloud Engineer**
+### **Technical Lead | Solutions Architect | Full Stack Developer, Data Engineer & Cloud Engineer | .NET, Angular, SQL, Azure, AWS, React, Python, BI | Scalable Architectures & Data Analytics**
 
 Systems Engineer with +5 years of experience building mission-critical applications. My focus is on creating scalable digital products using **PaaS-driven architectures** and modern tech stacks. Currently based in **Rome, Italy 🇮🇹**.
 
