@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Juan Carlos Gadea 💻
 
-<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/76d76a13-6074-4d23-880b-64f1df52e40c" />
+<img width="1584" height="396" alt="linkedin_banner (1)" src="https://github.com/user-attachments/assets/546f6c8d-8dec-49a0-83ec-6dd4493514d2" />
+
 
 
 ### **Technical Lead | Solutions Architect | Full Stack Developer, Data Analytics & Cloud Engineer**
