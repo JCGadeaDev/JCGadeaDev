@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Juan Carlos Gadea 💻
 
-<img width="1584" height="396" alt="linkedin_banner (1)" src="https://github.com/user-attachments/assets/546f6c8d-8dec-49a0-83ec-6dd4493514d2" />
+<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/3d31bf95-b1cd-4208-b283-4dc09c30157b" />
 
 
 
