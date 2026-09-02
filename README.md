@@ -25,7 +25,7 @@ Systems Engineer with +5 years of experience building mission-critical applicati
 | :--- | :--- |
 | **Backend** | .NET(C#), Razor, Node.js, Express, Python, Spring Boot ASP.NET Core |
 | **Frontend** | React, Next.js, Angular, Javascript, TypeScript, Astro Tailwind CSS, Bootsrrap |
-| **Data & Analytics** | Python (Pandas, NumPy, Matplotlib), Power BI, Streamlit, Jupyter |
+| **Data & Analytics** | Python (Pandas, NumPy, Matplotlib), Power BI, Streamlit, Jupyter, SQL, Snowflake |
 | **Cloud (PaaS)** | Azure (App Services, SQL), GCP (Run/Build), AWS (S3, RDS), Supabase, Firebase |
 | **Database** | SQL Server, PostgreSQL, Oracle Database, MongoDB |
 | **DevOps** | Docker, Terraform, GitHub Actions (CI/CD), Vercel |
