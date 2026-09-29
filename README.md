@@ -6,7 +6,7 @@
 
 ### **Data Engineer | Full Stack Developer | Solutions Architect | Technical Lead & Cloud Engineer | SQL, Python, BI, React, Angular, .NET, Azure, AWS | Scalable Architectures & Data Analytics**
 
-Data Engineer & Full Stack Developer with **+5 years of experience** building mission-critical applications across banking, government, and telecommunications. I combine data engineering, cloud architecture, and full-stack development to turn business needs into scalable, results-driven platforms. Currently based in **Rome, Italy 🇮🇹**, starting a **Master's in Big Data & Data Engineering** this October.
+Data Engineer & Full Stack Developer with **+5 years of experience** building mission-critical applications across banking, government, and telecommunications. I combine data engineering, cloud architecture, and full-stack development to turn business needs into scalable, results-driven platforms. Currently based in **Rome, Italy 🇮🇹**, starting a **Master's in Big Data & Data Engineering**
 
 ---
 
